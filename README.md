@@ -99,30 +99,30 @@ Below is the starting of a [Mermaid](https://knsv.github.io/mermaid/) graph.
 [Edit the graph](http://bit.ly/hheutreeedit)
 
 graph TD;  
-    Yahoo!Hack-->CharityHack;  
-    Yahoo!Hack-->LeedsHack;  
-    Yahoo!Hack-->Hacked.io;  
-    Yahoo!Hack-->OverTheAir;  
-    Mashed2008-->Hacked.io;  
-    CharityHack-->BattleHack;  
-    Hacked.io-->Hackference;  
-    KingsOfCode-->Hackference  
-    LeedsHack-->HackManchester;  
-    LeedsHack-->LincolnHack;  
-    HackManchester-->Hack24;  
-    Hack24-->HackTheMidlands;   
-    Hackference-->BanterHack;  
-    Hackference-->BrumHack;  
-    Hackference-->HackNotts;  
-    HackNotts-->AnvilHack;  
-    AnvilHack-->SexTechHack;  
-    HackNotts-->LaunchHack;  
-    StudentHack-->LaunchHack;  
-    LaunchHack-->DragonHacks;  
-    LaunchHack-->HackNE;  
-    LaunchHack-->LandingHack;  
-    LaunchHack-->WarwickHACK;  
-    WarwickHACK-->CUCCHack;  
+    Yahoo!Hack-->CharityHack;
+    Yahoo!Hack-->LeedsHack;
+    Yahoo!Hack-->Hacked.io;
+    Yahoo!Hack-->OverTheAir;
+    Mashed2008-->Hacked.io;
+    CharityHack-->BattleHack;
+    Hacked.io-->Hackference;
+    KingsOfCode-->Hackference
+    LeedsHack-->HackManchester;
+    LeedsHack-->LincolnHack;
+    HackManchester-->Hack24;
+    Hack24-->HackTheMidlands;
+    Hackedference-->BanterHack;
+    Hackference-->BrumHack;
+    Hackference-->HackNotts;
+    HackNotts-->AnvilHack;
+    AnvilHack-->SexTechHack;
+    HackNotts-->LaunchHack;
+    StudentHack-->LaunchHack;
+    LaunchHack-->DragonHacks;
+    LaunchHack-->HackNE;
+    LaunchHack-->LandingHack;
+    LaunchHack-->WarwickHACK;
+    WarwickHACK-->CUCCHack; 
     LaunchHack-->HackTheHolidays;  
     LaunchHack-->HackTheBurgh;  
     LaunchHack-->StacsHack;  
