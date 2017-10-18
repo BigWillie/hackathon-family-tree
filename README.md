@@ -19,9 +19,9 @@ Below is the starting of a [Mermaid](https://knsv.github.io/mermaid/) graph.
   - CharityHack (also parented by BarCamp)
     - BattleHack
   - LeedsHack
+    - LincolnHack
     - HackManchester
       - Hack24
-        - LincolnHack
         - HackTheMidlands
   - Hacked.io (also parented by Mashed 2008)
     - Hackference (also parented by Kings of Code)
