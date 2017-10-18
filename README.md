@@ -107,10 +107,10 @@ graph TD;
     CharityHack-->BattleHack;  
     Hacked.io-->Hackference;  
     KingsOfCode-->Hackference  
-    LeedsHack-->HackManchester;
-    LeedsHack-->LincolnHack;
-    HackManchester-->Hack24;
-    Hack24-->HackTheMidlands;  
+    LeedsHack-->HackManchester;  
+    LeedsHack-->LincolnHack;  
+    HackManchester-->Hack24;  
+    Hack24-->HackTheMidlands;   
     Hackference-->BanterHack;  
     Hackference-->BrumHack;  
     Hackference-->HackNotts;  
