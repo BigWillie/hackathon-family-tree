@@ -168,7 +168,7 @@ graph TD
   Mashed2008-->Hacked.io  
   CharityHack-->BattleHack  
   Hacked.io-->Hackference  
-  KingsOfCode-->Hackference
+  KingsOfCode-->Hackference     
   LeedsHack-->HackManchester  
   LeedsHack-->LincolnHack  
   HackManchester-->Hack24  
