@@ -109,7 +109,7 @@ graph TD
   KingsOfCode-->Hackference  
   LeedsHack-->HackManchester    
   LeedsHack-->LincolnHack    
-  HackManchester-->Hack24    
+  HackManchester-->Hack24      
   Hack24-->HackTheMidlands    
   Hackedference-->BanterHack    
   Hackference-->BrumHack    
