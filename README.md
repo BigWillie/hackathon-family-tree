@@ -107,9 +107,9 @@ graph TD;
     CharityHack-->BattleHack;  
     Hacked.io-->Hackference;  
     KingsOfCode-->Hackference  
-    LeedsHack-->HackManchester;  
-    HackManchester-->Hack24;  
-    Hack24-->LincolnHack;  
+    LeedsHack-->HackManchester;
+    LeedsHack-->LincolnHack;
+    HackManchester-->Hack24;
     Hack24-->HackTheMidlands;  
     Hackference-->BanterHack;  
     Hackference-->BrumHack;  
